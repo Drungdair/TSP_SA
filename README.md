@@ -4,7 +4,7 @@ Simulated Annealing avance
 # Importante:
   Este es solo un avance, al correr el programa, se debe tener el archivo "Hola mundo.tsp" en la misma carpeta del archivo Python
   
-  Los numeros que se imprimen en pantalla es la distancia:\n
+  Los numeros que se imprimen en pantalla es la distancia:
     - Redondeada al entero mas cercano | 1.2 -> 1 | 1.7 -> 2 | round_distance()
     - Redondeada al techo              | 1.2 -> 2 | 1.7 -> 2 | ceil_distance()
     
